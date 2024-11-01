@@ -1,0 +1,55 @@
+# Copyright (C) 2023 MohammedYasar Khalifa
+# This file is distributed under the GPL2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Bought Products 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-bought-products\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-07-26T11:23:45+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: woo-bought-products\n"
+
+#. Plugin Name of the plugin
+msgid "Woocommerce Bought Products"
+msgstr ""
+
+#. Description of the plugin
+msgid "You get a complete list of the products purchased by a current user . You may use [boughtproduct] as a shortcode in your page."
+msgstr ""
+
+#. Author of the plugin
+msgid "MohammedYasar Khalifa"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://myasark.wordpress.com/"
+msgstr ""
+
+#: woocommerce-bought-products.php:39
+msgid "Show Pagination"
+msgstr ""
+
+#: woocommerce-bought-products.php:40
+msgid "Use Own Css"
+msgstr ""
+
+#: woocommerce-bought-products.php:41
+msgid "Show Image"
+msgstr ""
+
+#: woocommerce-bought-products.php:42
+msgid "How Many Product Show on Page."
+msgstr ""
+
+#: woocommerce-bought-products.php:42
+msgid "-1 For all products"
+msgstr ""
+
+#: woocommerce-bought-products.php:165
+msgid "Next"
+msgstr ""
